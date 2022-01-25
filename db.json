@@ -2,15 +2,48 @@
   "cart": [
     {
       "id": 1,
-      "name": "Avery's Sandwich",
+      "name": "Jaxon's Sandwich",
       "bread": "Sourdough",
       "ingredients": [
-        "Cheddar Cheese",
-        "Mayo",
         "Ham",
+        "Salt",
+        "Pepper",
+        "Mayo",
+        "American Cheese*",
+        "Bacon"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Braxton's Sandwich",
+      "bread": "Sourdough",
+      "ingredients": [
+        "Mayo",
+        "Lettuce",
+        "Tomatoes",
+        "Turkey",
+        "Onions",
+        "American Cheese*"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "THE BIG MOUTH",
+      "bread": "White",
+      "ingredients": [
+        "Ham",
+        "Turkey",
         "Bacon",
         "Lettuce",
-        "Tomatoes"
+        "Tomatoes",
+        "Onions",
+        "Cheddar Cheese",
+        "American Cheese*",
+        "Parmesan Cheese",
+        "Mayo",
+        "Oil & Vinegar",
+        "Salt",
+        "Pepper"
       ]
     }
   ],
