@@ -3,14 +3,14 @@
     {
       "id": 1,
       "name": "Jaxon's Sandwich",
-      "bread": "Sourdough",
+      "bread": "White",
       "ingredients": [
-        "Ham",
         "Salt",
         "Pepper",
         "Mayo",
-        "American Cheese*",
-        "Bacon"
+        "Bacon",
+        "Cheddar Cheese",
+        "Ham"
       ]
     },
     {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "THE BIG MOUTH",
       "bread": "White",
       "ingredients": [
